@@ -22,3 +22,8 @@ print(f"Hello {name}")
 var myVar = "Hello, world!";
 // saying hello world using javascript
 ```
+
+## Adding a task list using markdown
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
